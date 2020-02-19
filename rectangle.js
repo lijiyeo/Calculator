@@ -15,6 +15,5 @@ $(
             
             $perimeter.val(p);
             $area.val(a);
-            console.log(w*h);
           });
       });
